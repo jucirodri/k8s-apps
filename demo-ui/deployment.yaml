@@ -14,7 +14,7 @@ spec:
         app: demo-ui
     spec:
       containers:
-      - image: jucirodri/demo-ui:db453fc5c76258c881abaeddbfc514a997f00f5f
+      - image: jucirodri/demo-ui:dfeeb4af4f6e109c8950713d9991cc04524c6a1b
         name: demo-ui
         ports:
         - containerPort: 80
